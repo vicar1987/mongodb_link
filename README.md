@@ -1,2 +1,2 @@
 # mongodb_link
-mongodb link practice
+mongodb atlas link practice
